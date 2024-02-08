@@ -14,4 +14,4 @@ This webpage can be used by customers to see if Horiseon is the right company to
 - Added alt attributes to img tags
 - Added comments to organize code
 - Fixed closing tag errors
-- Added title to document
+- titled the document
