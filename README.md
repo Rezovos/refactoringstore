@@ -10,8 +10,8 @@ This webpage can be used by customers to see if Horiseon is the right company to
 
 ### HTML
 
--Changed div tags to more semantic tags like header, nav, section, footer
--Added alt attributes to img tags
--Added title to document
--Fixed closing tag errors
--Added comments to organize code
+- Changed div tags to more semantic tags like header, nav, section, footer
+- Added alt attributes to img tags
+- Added comments to organize code
+- Fixed closing tag errors
+- Added title to document
